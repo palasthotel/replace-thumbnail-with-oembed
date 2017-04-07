@@ -4,7 +4,7 @@ Donate link: https://palasthotel.de/
 Tags: oembed, iframe, youtube, vimeo, instagram, twitter, soundcloud, thumbnail, image
 Requires at least: 4.0
 Tested up to: 4.7.3
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GNU General Public License v3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -29,6 +29,9 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 == Changelog ==
+
+= 1.0.1 =
+* Test release, no changes in plugin code
 
 = 1.0 =
 * First release
