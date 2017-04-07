@@ -1,10 +1,10 @@
 === Replace Thumbnail with oEmbed ===
-Contributors: palasthotel, greatestview
+Contributors: greatestview, palasthotel
 Donate link: https://palasthotel.de/
 Tags: oembed, iframe, youtube, vimeo, instagram, twitter, soundcloud, thumbnail, image
 Requires at least: 4.0
 Tested up to: 4.7.3
-Stable tag: trunk
+Stable tag: 1.0
 License: GNU General Public License v3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
