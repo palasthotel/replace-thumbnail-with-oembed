@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Replace Thumbnail with oEmbed
  * Description: This plugin checks, if the first line of the content is a valid oEmbed URL. If that is the case, it replaces the thumbnail image with the oEmbed element (e. g. with a YouTube video). Now you don’t have to care too much about a thumbnail image, since instead you would see the video or any other oEmbed content. You can even e. g. watch videos on your blogs front page without opening the post. Works for all is_singular() WordPress contents, which have a thumbnail set and are not password protected.
- * Version:     1.1
+ * Version:     1.1.1
  * Author:      Palasthotel <rezeption@palasthotel.de> (Kim-Christian Meyer)
  * Author URI:  https://palasthotel.de
  * License:     GNU General Public License v3
