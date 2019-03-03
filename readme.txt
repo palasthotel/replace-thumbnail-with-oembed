@@ -4,7 +4,7 @@ Donate link: https://palasthotel.de/
 Tags: oembed, iframe, youtube, vimeo, instagram, twitter, soundcloud, thumbnail, image
 Requires at least: 4.0
 Tested up to: 5.1
-Stable tag: 1.2.2
+Stable tag: 1.2.4
 License: GNU General Public License v3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -25,6 +25,12 @@ The active WordPress Theme must use the_post_thumbnail() or get_the_post_thumbna
 3. You’re done! Try pasting a YouTube, Instagram or any other oEmbed URL into the first line of a post or page. Open the post and see, that the thumbnail image has been replaced by the oEmbed element.
 
 == Changelog ==
+
+= 1.2.4 =
+* SVN fix
+
+= 1.2.3 =
+* readme.txt fix
 
 = 1.2.2 =
 * WordPress 5.1 compatibility check and readme.txt update.
